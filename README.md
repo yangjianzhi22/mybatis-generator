@@ -112,7 +112,9 @@ MyBatis Generator(MBG)是MyBatis的代码生成器。它将内省一个数据库
 
 ![2](./docs/2.jpg)
 
-## 结合Lombok
+## 场景
+
+#### 结合Lombok
 
 使用已有的轮子MyBatis Generator Lombok plugin
 
