@@ -45,7 +45,7 @@ MyBatis Generator(MBG)是MyBatis的代码生成器。它将内省一个数据库
 
 - 创建文件generatorConfig.xml
 
-在resources文件夹下创建一个目录mybatis-generator，在目录mybatis-generator下创建文件generatorConfig.xml
+在resources文件夹下创建文件generatorConfig.xml
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
